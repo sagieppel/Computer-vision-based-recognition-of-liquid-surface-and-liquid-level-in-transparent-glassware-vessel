@@ -10,8 +10,6 @@
   Mask of the liquid surface curves in the image.
   The liquid surface curves marked on the image.
   
-## Using: 
-  Run RunTest.py
 
 ![](/Scheme.png)  
 For more details see:  [Computer vision-based recognition of liquid surfaces and phase boundaries in transparent vessels, with emphasis on chemistry applications](http://arxiv.org/abs/1404.7174)
