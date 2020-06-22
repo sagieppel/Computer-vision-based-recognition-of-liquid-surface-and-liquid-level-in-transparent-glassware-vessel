@@ -13,6 +13,7 @@
 
 ![](/Scheme.png)  
 For more details see:  [Computer vision-based recognition of liquid surfaces and phase boundaries in transparent vessels, with emphasis on chemistry applications](http://arxiv.org/abs/1404.7174)
+For more accurate method of solving the same problem with neural nets see [this work](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net)
 
 Tracing the transparent vessel in the image and creating VesselMask can be done using neural network in [here](https://github.com/sagieppel/Detecting-and-segmenting-and-classifying-materials-inside-vessels-in-images-using-convolutional-net)
 
